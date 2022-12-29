@@ -1,0 +1,32 @@
+//tipos de datos 
+
+char = 'b'
+String = "Brayan"
+integer = 14
+Float = 22.9
+Bool = true
+
+
+--- Arrays --
+
+arrayChar = ['b','r','a','y','a','n']
+arrayString = ['Brayan', 'Padilla', 'Primera']
+arrayIntegers = [14,20,22]
+arrayFloats = [14.5,20.8,22.9]
+
+
+-- Objetos --
+
+Persona
+    Propiedades
+        nombreCompleto
+        Pais
+        Ciudad
+        Identificacion
+        Email
+    Metodos
+        Programar()
+        Caminar()
+        Correr()
+        Dormir()
+        Jugar()
