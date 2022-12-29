@@ -1,16 +1,17 @@
 # *Open bootcamp♥*
 
-> Algoritmos en pseint de EggCorporation
+> Repositorio de ejercicios y apuntes.
 
 ## Temas de la ruta (Backend)
 
 * Introducción a la programación
+* Python
 * Java Básico
 * Git
-* Python
 * Java Avanzado
 * Spring
-*  Hibernate
+* Hibernate
+* Testing con JUnit
 
 Me encuentro realizando una ruta programación backend.
 
