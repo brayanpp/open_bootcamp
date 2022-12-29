@@ -30,3 +30,58 @@ Persona
         Correr()
         Dormir()
         Jugar()
+
+-- Sentencias de control --
+
+##Condicionales
+
+if - else - elseif 
+
+Logicas 
+    [Y] &&
+    [O] ||
+
+Comparativas 
+    >
+    <
+    >=
+    <=
+    !=
+    ==
+    ===
+
+## Bucles
+
+[1][2][3][4][5][6]
+
+var contador = 0
+Mientras contador mayor a cero
+    resta uno al contador
+
+Hacer 
+    resta uno al contador
+mientras contador mayor a cero
+
+
+Continua acá cuando se cumple.
+
+--------
+PARA (For)
+var contador = 10
+
+PARA(inicializacion;comparacion;accion)
+PARA(contador mayor que 0; contador igual a contador; menos 1)
+    Imprimir el valor de la variable contador
+
+
+---------
+var estacion = "verano";
+(Switch)SEGUN -> estacion
+    verano:
+        Imprimir es verano
+    primavera:
+        Imprimir es primavera
+    otoño:
+        Imprimir es otoño
+    de otro Modo
+        Imprimir estacion
