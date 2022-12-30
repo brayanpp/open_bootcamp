@@ -85,3 +85,14 @@ var estacion = "verano";
         Imprimir es otoño
     de otro Modo
         Imprimir estacion
+
+
+// Errores programador
+
+*Asignar nombres a variables que no serán entendidos por otras personas
+*Dejar codigos o funciones especificas sin comentar
+*Hacer comentarios innecesarios a código que su funcionalidad es evidente
+*No realizar la indentación correctamente
+*No hacer copias de seguridad
+*No versionar
+*Crear funcionas excesivamente grandes e ilegibles
